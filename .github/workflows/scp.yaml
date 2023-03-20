@@ -9,7 +9,7 @@ on:
 permissions:
   contents: read
 
-job:
+jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
